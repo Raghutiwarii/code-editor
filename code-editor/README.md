@@ -8,5 +8,5 @@ Login to jdoodle and get your credentials i.e Client ID and Client Secret from [
 
 And now you are ready to go!!!
 
-![Screenshot of the editor](https://i.ibb.co/q9m0sw5/Screenshot-170.png)
+![Screenshot of the editor](https://ibb.co/NZRYLsD)
 
